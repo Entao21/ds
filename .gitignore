@@ -203,5 +203,8 @@ cython_debug/
 
 # Marimo
 marimo/_static/
+
+
+/lecture_notes
 marimo/_lsp/
 __marimo__/
